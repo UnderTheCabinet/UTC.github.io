@@ -1,3 +1,3 @@
-function viewCurrDate() { // eslint-disable-line no-unused-vars
+function viewCurrDate() {
  document.getElementById('demo').innerHTML = Date();
 }
