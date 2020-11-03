@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <button onclick="window.location.href='1103_1'">텍스트 과제</button>
+    <button onclick="window.location.href='1103_2'">이미지 과제</button>
+</body>
+
+</html>
